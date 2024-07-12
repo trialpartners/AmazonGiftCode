@@ -7,7 +7,7 @@
  */
 
 
-namespace kamerk22\AmazonGiftCode\Facades;
+namespace Trialpartners\AmazonGiftCode\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

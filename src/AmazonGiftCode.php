@@ -1,10 +1,10 @@
 <?php
 
-namespace kamerk22\AmazonGiftCode;
+namespace Trialpartners\AmazonGiftCode;
 
-use kamerk22\AmazonGiftCode\AWS\AWS;
-use kamerk22\AmazonGiftCode\Config\Config;
-use kamerk22\AmazonGiftCode\Exceptions\AmazonErrors;
+use Trialpartners\AmazonGiftCode\AWS\AWS;
+use Trialpartners\AmazonGiftCode\Config\Config;
+use Trialpartners\AmazonGiftCode\Exceptions\AmazonErrors;
 
 class AmazonGiftCode
 {

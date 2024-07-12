@@ -7,11 +7,11 @@
  */
 
 
-namespace kamerk22\AmazonGiftCode\Client;
+namespace Trialpartners\AmazonGiftCode\Client;
 
 
 use Illuminate\Http\JsonResponse;
-use kamerk22\AmazonGiftCode\Exceptions\AmazonErrors;
+use Trialpartners\AmazonGiftCode\Exceptions\AmazonErrors;
 
 class Client implements ClientInterface
 {

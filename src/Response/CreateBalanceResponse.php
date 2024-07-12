@@ -7,7 +7,7 @@
  */
 
 
-namespace kamerk22\AmazonGiftCode\Response;
+namespace Trialpartners\AmazonGiftCode\Response;
 
 
 use Illuminate\Support\Facades\Log;

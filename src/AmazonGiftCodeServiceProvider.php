@@ -7,7 +7,7 @@
  */
 
 
-namespace kamerk22\AmazonGiftCode;
+namespace Trialpartners\AmazonGiftCode;
 
 use Illuminate\Support\ServiceProvider;
 

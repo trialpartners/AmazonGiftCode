@@ -7,7 +7,7 @@
  */
 
 
-namespace kamerk22\AmazonGiftCode\Config;
+namespace Trialpartners\AmazonGiftCode\Config;
 
 
 interface ConfigInterface

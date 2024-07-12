@@ -7,7 +7,7 @@
  */
 
 
-namespace kamerk22\AmazonGiftCode\Exceptions;
+namespace Trialpartners\AmazonGiftCode\Exceptions;
 
 
 use RuntimeException;

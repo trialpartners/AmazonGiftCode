@@ -7,7 +7,7 @@
  */
 
 
-namespace kamerk22\AmazonGiftCode\Client;
+namespace Trialpartners\AmazonGiftCode\Client;
 
 
 interface ClientInterface

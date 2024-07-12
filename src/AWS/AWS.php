@@ -7,15 +7,15 @@
  */
 
 
-namespace kamerk22\AmazonGiftCode\AWS;
+namespace Trialpartners\AmazonGiftCode\AWS;
 
 
-use kamerk22\AmazonGiftCode\Client\Client;
-use kamerk22\AmazonGiftCode\Config\Config;
-use kamerk22\AmazonGiftCode\Exceptions\AmazonErrors;
-use kamerk22\AmazonGiftCode\Response\CancelResponse;
-use kamerk22\AmazonGiftCode\Response\CreateBalanceResponse;
-use kamerk22\AmazonGiftCode\Response\CreateResponse;
+use Trialpartners\AmazonGiftCode\Client\Client;
+use Trialpartners\AmazonGiftCode\Config\Config;
+use Trialpartners\AmazonGiftCode\Exceptions\AmazonErrors;
+use Trialpartners\AmazonGiftCode\Response\CancelResponse;
+use Trialpartners\AmazonGiftCode\Response\CreateBalanceResponse;
+use Trialpartners\AmazonGiftCode\Response\CreateResponse;
 
 class AWS
 {

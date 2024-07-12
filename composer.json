@@ -1,5 +1,5 @@
 {
-    "name": "amazongiftcode",
+    "name": "trialpartners/amazon-gift-code",
     "description": "Laravel Package for Amazon Gift Codes.",
     "license": "MIT",
     "keywords": ["Laravel", "AmazonGiftCode", "Amazon", "GiftCard", "AGCOD", "Incentives API", "Amazon Incentives API"],
@@ -14,21 +14,21 @@
     },
     "autoload": {
         "psr-4": {
-            "kamerk22\\AmazonGiftCode\\": "src/"
+            "trialpartners\\AmazonGiftCode\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "kamerk22\\AmazonGiftCode\\Tests\\": "tests"
+            "trialpartners\\AmazonGiftCode\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "kamerk22\\AmazonGiftCode\\AmazonGiftCodeServiceProvider"
+                "trialpartners\\AmazonGiftCode\\AmazonGiftCodeServiceProvider"
             ],
             "aliases": {
-                "AmazonGiftCode": "kamerk22\\AmazonGiftCode\\Facades\\AmazonGiftCode"
+                "AmazonGiftCode": "trialpartners\\AmazonGiftCode\\Facades\\AmazonGiftCode"
             }
         }
     }

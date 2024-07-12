@@ -14,21 +14,16 @@
     },
     "autoload": {
         "psr-4": {
-            "trialpartners\\AmazonGiftCode\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "trialpartners\\AmazonGiftCode\\Tests\\": "tests"
+            "Trialpartners\\AmazonGiftCode\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "trialpartners\\AmazonGiftCode\\AmazonGiftCodeServiceProvider"
+                "Trialpartners\\AmazonGiftCode\\AmazonGiftCodeServiceProvider"
             ],
             "aliases": {
-                "AmazonGiftCode": "trialpartners\\AmazonGiftCode\\Facades\\AmazonGiftCode"
+                "AmazonGiftCode": "Trialpartners\\AmazonGiftCode\\Facades\\AmazonGiftCode"
             }
         }
     }
